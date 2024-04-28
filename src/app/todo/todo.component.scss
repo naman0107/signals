@@ -1,0 +1,14 @@
+form {
+  border: 1px solid #cacaca;
+  padding: 2em;
+  background: #f2f2f2;
+  border-radius: 10px;
+}
+
+input[type="checkbox"] {
+  accent-color: green;
+}
+
+input[type="checkbox"] :focus{
+  outline:0;
+}
